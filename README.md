@@ -60,7 +60,7 @@ Each model was evaluated using:
 
 ## 🧩 Confusion Matrices
 
-Confusion matrices were plotted side by side to visually compare misclassifications.
+Confusion matrices were plotted to visually compare misclassifications.
 
 ![Random Forest](images/cm_rf.png)
 ![Linear SVM](images/cm_lsvm.png)
