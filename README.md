@@ -76,12 +76,6 @@ Bar chart comparing all metrics across the three models.
 
 ---
 
-## 🧠 Feature Importance
-
-Top influential words from each model (for applicable ones like Random Forest and SVM) were visualized to understand what features contributed most to classification.
-
----
-
 ## 🔧 Libraries Used
 
 - `pandas`, `numpy`
