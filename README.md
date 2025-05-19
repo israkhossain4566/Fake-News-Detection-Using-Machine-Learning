@@ -85,25 +85,6 @@ Bar chart comparing all metrics across the three models.
 
 ---
 
-## 🚀 How to Run
-
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/fake-news-detection.git
-   cd fake-news-detection
-   ```
-
-2. Install requirements:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the main notebook or script:
-   ```bash
-   python fake_news_classification.py
-   ```
-
----
 
 ## 📌 Future Work
 
